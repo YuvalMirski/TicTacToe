@@ -26,8 +26,7 @@ public class MainActivity<counter> extends AppCompatActivity {
             {0, 3, 6}, {1, 4, 7}, {2, 5, 8},
             {0, 4, 8}, {2, 4, 6}};
 
-    // this function will be called every time a
-    // players tap in an empty box of the grid
+    // this function will be called every time a players tap in an empty box of the grid
     public void playerTap(View view) {
         ImageView img = (ImageView) view;
         int tappedImage = Integer.parseInt(img.getTag().toString());
