@@ -1,4 +1,4 @@
-# TicTacToe
 
-https://github.com/YuvalMirski/TicTacToe/assets/82767617/75244f14-b6fc-4dab-ab8f-69607d86a5ee
+
+https://github.com/YuvalMirski/TicTacToe/assets/82767617/f8fe8e6b-a880-4593-ba58-f42a4ecf1b96
 
